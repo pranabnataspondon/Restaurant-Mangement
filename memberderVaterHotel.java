@@ -14,6 +14,7 @@ class Customers {
 
     public boolean isCouple() {
         return isCouple;
+        
     }
 
     public boolean ismember() {
